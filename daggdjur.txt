@@ -1,0 +1,42 @@
+Sorex, näbbmöss, päästäiset 
+Neomys fodiens, vattennäbbmus, vesipäästäinen
+Talpa europaea, mullvad, kontiainen
+Erinaceus europaeus, igelkott, siili
+Myotis, Myotis fladdermöss, siipat  
+Eptesicus nilssoni, nordisk fladdermus, pohjanlepakko
+Sciurus vulgaris, ekorre, orava 
+Pteromys volans, flygekorre, liito-orava
+Castor fiber, europeisk bäver, euroopanmajava
+Castor canadensis, amerikansk bäver, amerikanmajava
+Myopus schisticolor, skogslämmel, metsäsopuli 
+Lemmus lemmus, fjällämmel, tunturisopuli  
+Myodes glareolus, skogssork (ängssork), metsämyyrä 
+Arvicola amphibius, vattensork, vesimyyrä   
+Ondatra zibethicus, bisamråtta, piisami  
+Microtus agrestis, åkersork, peltomyyrä
+Apodemus flavicollis, större skogsmus, metsähiiri 
+Micromys minutus, dvärgmus, vaivaishiiri   
+Mus musculus, husmus, kotihiiri 
+Rattus norvegicus, brun råtta, rotta
+Lepus timidus, skogshare, metsäjänis 
+Lepus europaeus, fälthare, rusakko 
+Lynx lynx, lo, ilves 
+Canis lupus, varg, susi 
+Vulpes vulpes, räv, kettu 
+Nyctereutes procyonoides, mårdhund, supikoira 
+Ursus arctos, björn, karhu 
+Halichoerus grypus, gråsäl, halli, harmaahylje 
+Pusa hispida, vikare, norppa 
+Lutra lutra, utter, saukko 
+Gulo gulo, järv, ahma 
+Martes martes, mård, näätä 
+Meles meles, grävling, mäyrä 
+Mustela erminea, hermelin, kärppä 
+Mustela nivalis, vessla, lumikko 
+Mustela putorius, iller, hilleri 
+Neovison vison, mink, minkki 
+Alces alces, älg, hirvi 
+Capreolus capreolus, rådjur, metsäkauris 
+Odocoileus virginianus, vitsvanshjort, valkohäntäkauris 
+Rangifer tarandus fenniucs, skogsvildren, metsäpeura
+Rangifer tarandus tarandus, tamren, poro
