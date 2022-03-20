@@ -1,1 +1,230 @@
-[{"latin": "Sorex", "swe": " n\u00e4bbm\u00f6ss", "fin": " p\u00e4\u00e4st\u00e4iset \r\n", "src": "000001.jpg"}, {"latin": "Neomys fodiens", "swe": " vattenn\u00e4bbmus", "fin": " vesip\u00e4\u00e4st\u00e4inen\r\n", "src": "000002.jpg"}, {"latin": "Talpa europaea", "swe": " mullvad", "fin": " kontiainen\r\n", "src": "000003.jpg"}, {"latin": "Erinaceus europaeus", "swe": " igelkott", "fin": " siili\r\n", "src": "000004.jpg"}, {"latin": "Myotis", "swe": " Myotis fladderm\u00f6ss", "fin": " siipat  \r\n", "src": "000005.jpg"}, {"latin": "Eptesicus nilssoni", "swe": " nordisk fladdermus", "fin": " pohjanlepakko\r\n", "src": "000006.jpg"}, {"latin": "Sciurus vulgaris", "swe": " ekorre", "fin": " orava \r\n", "src": "000007.jpg"}, {"latin": "Pteromys volans", "swe": " flygekorre", "fin": " liito-orava\r\n", "src": "000008.jpg"}, {"latin": "Castor fiber", "swe": " europeisk b\u00e4ver", "fin": " euroopanmajava\r\n", "src": "000009.jpg"}, {"latin": "Castor canadensis", "swe": " amerikansk b\u00e4ver", "fin": " amerikanmajava\r\n", "src": "000010.jpg"}, {"latin": "Myopus schisticolor", "swe": " skogsl\u00e4mmel", "fin": " mets\u00e4sopuli \r\n", "src": "000011.jpg"}, {"latin": "Lemmus lemmus", "swe": " fj\u00e4ll\u00e4mmel", "fin": " tunturisopuli  \r\n", "src": "000012.jpg"}, {"latin": "Myodes glareolus", "swe": " skogssork (\u00e4ngssork)", "fin": " mets\u00e4myyr\u00e4 \r\n", "src": "000013.jpg"}, {"latin": "Arvicola amphibius", "swe": " vattensork", "fin": " vesimyyr\u00e4   \r\n", "src": "000014.jpg"}, {"latin": "Ondatra zibethicus", "swe": " bisamr\u00e5tta", "fin": " piisami  \r\n", "src": "000015.jpg"}, {"latin": "Microtus agrestis", "swe": " \u00e5kersork", "fin": " peltomyyr\u00e4\r\n", "src": "000016.jpg"}, {"latin": "Apodemus flavicollis", "swe": " st\u00f6rre skogsmus", "fin": " mets\u00e4hiiri \r\n", "src": "000017.jpg"}, {"latin": "Micromys minutus", "swe": " dv\u00e4rgmus", "fin": " vaivaishiiri   \r\n", "src": "000018.jpg"}, {"latin": "Mus musculus", "swe": " husmus", "fin": " kotihiiri \r\n", "src": "000019.jpg"}, {"latin": "Rattus norvegicus", "swe": " brun r\u00e5tta", "fin": " rotta\r\n", "src": "000020.jpg"}, {"latin": "Lepus timidus", "swe": " skogshare", "fin": " mets\u00e4j\u00e4nis \r\n", "src": "000021.jpg"}, {"latin": "Lepus europaeus", "swe": " f\u00e4lthare", "fin": " rusakko \r\n", "src": "000022.jpg"}, {"latin": "Lynx lynx", "swe": " lo", "fin": " ilves \r\n", "src": "000023.jpg"}, {"latin": "Canis lupus", "swe": " varg", "fin": " susi \r\n", "src": "000024.jpg"}, {"latin": "Vulpes vulpes", "swe": " r\u00e4v", "fin": " kettu \r\n", "src": "000025.jpg"}, {"latin": "Nyctereutes procyonoides", "swe": " m\u00e5rdhund", "fin": " supikoira \r\n", "src": "000026.jpg"}, {"latin": "Ursus arctos", "swe": " bj\u00f6rn", "fin": " karhu \r\n", "src": "000027.jpg"}, {"latin": "Halichoerus grypus", "swe": " gr\u00e5s\u00e4l", "fin": " halli", "src": "000028.jpg"}, {"latin": "Pusa hispida", "swe": " vikare", "fin": " norppa \r\n", "src": "000029.jpg"}, {"latin": "Lutra lutra", "swe": " utter", "fin": " saukko \r\n", "src": "000030.jpg"}, {"latin": "Gulo gulo", "swe": " j\u00e4rv", "fin": " ahma \r\n", "src": "000031.jpg"}, {"latin": "Martes martes", "swe": " m\u00e5rd", "fin": " n\u00e4\u00e4t\u00e4 \r\n", "src": "000032.jpg"}, {"latin": "Meles meles", "swe": " gr\u00e4vling", "fin": " m\u00e4yr\u00e4 \r\n", "src": "000033.jpg"}, {"latin": "Mustela erminea", "swe": " hermelin", "fin": " k\u00e4rpp\u00e4 \r\n", "src": "000034.jpg"}, {"latin": "Mustela nivalis", "swe": " vessla", "fin": " lumikko \r\n", "src": "000035.jpg"}, {"latin": "Mustela putorius", "swe": " iller", "fin": " hilleri \r\n", "src": "000036.jpg"}, {"latin": "Neovison vison", "swe": " mink", "fin": " minkki \r\n", "src": "000037.jpg"}, {"latin": "Alces alces", "swe": " \u00e4lg", "fin": " hirvi \r\n", "src": "000038.jpg"}, {"latin": "Capreolus capreolus", "swe": " r\u00e5djur", "fin": " mets\u00e4kauris \r\n", "src": "000039.jpg"}, {"latin": "Odocoileus virginianus", "swe": " vitsvanshjort", "fin": " valkoh\u00e4nt\u00e4kauris \r\n", "src": "000040.jpg"}, {"latin": "Rangifer tarandus fenniucs", "swe": " skogsvildren", "fin": " mets\u00e4peura\r\n", "src": "000041.jpg"}, {"latin": "Rangifer tarandus tarandus", "swe": " tamren", "fin": " poro", "src": "000042.jpg"}]
+[
+    {
+        "latin": "Lampetra fluviatilis",
+        "swe": " flodnejonöga",
+        "fin": " nahkiainen",
+        "src": "000001.jpg"
+    },
+    {
+        "latin": "Clupea harengus membras",
+        "swe": " strömming",
+        "fin": " silakka",
+        "src": "000002.jpg"
+    },
+    {
+        "latin": "Sprattus sprattus",
+        "swe": " vassbuk (skarpsill)",
+        "fin": " kilohaili",
+        "src": "000003.jpg"
+    },
+    {
+        "latin": "Esox lucius",
+        "swe": " gädda",
+        "fin": " hauki",
+        "src": "000004.jpg"
+    },
+    {
+        "latin": "Coregonus albula",
+        "swe": " siklöja",
+        "fin": " muikku ",
+        "src": "000005.jpg"
+    },
+    {
+        "latin": "Coregonus lavaretus coll.",
+        "swe": " sik",
+        "fin": " siika ",
+        "src": "000006.jpg"
+    },
+    {
+        "latin": "Oncorhynchus mykiss",
+        "swe": " regnbågslax (forell)",
+        "fin": " kirjolohi ",
+        "src": "000007.jpg"
+    },
+    {
+        "latin": "Salmo salar",
+        "swe": " lax",
+        "fin": " lohi",
+        "src": "000008.jpg"
+    },
+    {
+        "latin": "Salmo trutta",
+        "swe": " laxöring",
+        "fin": " taimen",
+        "src": "000009.jpg"
+    },
+    {
+        "latin": "Salvelinus alpinus coll.",
+        "swe": " röding",
+        "fin": " nieriä",
+        "src": "000010.jpg"
+    },
+    {
+        "latin": "Thymallus thymallus",
+        "swe": " harr",
+        "fin": " harjus",
+        "src": "000011.jpg"
+    },
+    {
+        "latin": "Abramis brama",
+        "swe": " braxen",
+        "fin": " lahna",
+        "src": "000012.jpg"
+    },
+    {
+        "latin": "Carassius carassius",
+        "swe": " ruda",
+        "fin": " ruutana ",
+        "src": "000013.jpg"
+    },
+    {
+        "latin": "Cyprinus carpio",
+        "swe": " karp",
+        "fin": " karppi ",
+        "src": "000014.jpg"
+    },
+    {
+        "latin": "Rutilus rutilus",
+        "swe": " mört",
+        "fin": " särki ",
+        "src": "000015.jpg"
+    },
+    {
+        "latin": "Scardinius erythrophthalmus",
+        "swe": " sarv",
+        "fin": " sorva ",
+        "src": "000016.jpg"
+    },
+    {
+        "latin": "Leciscus idus",
+        "swe": " id",
+        "fin": " säyne",
+        "src": "000017.jpg"
+    },
+    {
+        "latin": "Alburnus alburnus",
+        "swe": " löja",
+        "fin": " salakka",
+        "src": "000018.jpg"
+    },
+    {
+        "latin": "Anguilla anguilla",
+        "swe": " ål",
+        "fin": " ankerias ",
+        "src": "000019.jpg"
+    },
+    {
+        "latin": "Gadus morhua",
+        "swe": " torsk",
+        "fin": " turska",
+        "src": "000020.jpg"
+    },
+    {
+        "latin": "Lota lota",
+        "swe": " lake",
+        "fin": " made ",
+        "src": "000021.jpg"
+    },
+    {
+        "latin": "Gasterosteus aculeatus",
+        "swe": " storspigg",
+        "fin": " kolmipiikki ",
+        "src": "000022.jpg"
+    },
+    {
+        "latin": "Pungitius pungitius",
+        "swe": " småspigg",
+        "fin": " kymmenpiikki",
+        "src": "000023.jpg"
+    },
+    {
+        "latin": "Cottus gobio",
+        "swe": " stensimpa",
+        "fin": " kivisimppu",
+        "src": "000024.jpg"
+    },
+    {
+        "latin": "Perca fluviatilis",
+        "swe": " abborre",
+        "fin": " ahven ",
+        "src": "000025.jpg"
+    },
+    {
+        "latin": "Sander lucioperca",
+        "swe": " gös",
+        "fin": " kuha    ",
+        "src": "000026.jpg"
+    },
+    {
+        "latin": "Gymnocephalus cernuus",
+        "swe": " gers",
+        "fin": " kiiski",
+        "src": "000027.jpg"
+    },
+    {
+        "latin": "Zoarces viviparus",
+        "swe": " tånglake",
+        "fin": " kivinilkka",
+        "src": "000028.jpg"
+    },
+    {
+        "latin": "Familj Gobiidae",
+        "swe": " smörbultfiskar",
+        "fin": " tokot",
+        "src": "000029.jpg"
+    },
+    {
+        "latin": "Scophthalmus maximus",
+        "swe": " piggvar",
+        "fin": " piikkikampela",
+        "src": "000030.jpg"
+    },
+    {
+        "latin": "Platichthys flesus",
+        "swe": " flundra (skrubbskädda)",
+        "fin": " kampela",
+        "src": "000031.jpg"
+    },
+    {
+        "latin": "Triturus vulgaris",
+        "swe": " mindre vatten-salamander",
+        "fin": " vesilisko ",
+        "src": "000032.jpg"
+    },
+    {
+        "latin": "Bufo bufo",
+        "swe": " padda",
+        "fin": " rupikonna",
+        "src": "000033.jpg"
+    },
+    {
+        "latin": "Rana temporaria",
+        "swe": " vanlig groda",
+        "fin": " sammakko",
+        "src": "000034.jpg"
+    },
+    {
+        "latin": "Zootoca vivipara",
+        "swe": " skogsödla",
+        "fin": " sisilisko",
+        "src": "000035.jpg"
+    },
+    {
+        "latin": "Anguis fragilis",
+        "swe": " ormslå",
+        "fin": " kopparödla",
+        "src": "000036.jpg"
+    },
+    {
+        "latin": "Natrix natrix",
+        "swe": " snok",
+        "fin": " rantakäärme",
+        "src": "000037.jpg"
+    },
+    {
+        "latin": "Vipera berus",
+        "swe": " huggorm",
+        "fin": " kyy",
+        "src": "000038.jpg"
+    }
+]

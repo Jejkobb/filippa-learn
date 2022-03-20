@@ -1,0 +1,38 @@
+    Lampetra fluviatilis, flodnejonöga, nahkiainen
+    Clupea harengus membras, strömming, silakka
+    Sprattus sprattus, vassbuk (skarpsill), kilohaili
+    Esox lucius, gädda, hauki
+    Coregonus albula, siklöja, muikku 
+    Coregonus lavaretus coll., sik, siika 
+    Oncorhynchus mykiss, regnbågslax (”forell”), kirjolohi 
+    Salmo salar, lax, lohi
+    Salmo trutta, laxöring, taimen
+    Salvelinus alpinus coll., röding, nieriä
+    Thymallus thymallus, harr, harjus
+    Abramis brama, braxen, lahna
+    Carassius carassius, ruda, ruutana 
+    Cyprinus carpio, karp, karppi 
+    Rutilus rutilus, mört, särki 
+    Scardinius erythrophthalmus, sarv, sorva 
+    Leciscus idus, id, säyne, säynävä 
+    Alburnus alburnus, löja, salakka
+    Anguilla anguilla, ål, ankerias 
+    Gadus morhua, torsk, turska
+    Lota lota, lake, made 
+    Gasterosteus aculeatus, storspigg, kolmipiikki 
+    Pungitius pungitius, småspigg, kymmenpiikki
+    Cottus gobio, stensimpa, kivisimppu
+    Perca fluviatilis, abborre, ahven 
+    Sander lucioperca, gös, kuha    
+    Gymnocephalus cernuus, gers, kiiski
+    Zoarces viviparus, tånglake, kivinilkka
+    Familj Gobiidae, smörbultfiskar, tokot
+    Scophthalmus maximus, piggvar, piikkikampela
+    Platichthys flesus, flundra (skrubbskädda), kampela
+    Triturus vulgaris, mindre vatten-salamander, vesilisko 
+    Bufo bufo, padda, rupikonna
+    Rana temporaria, vanlig groda, sammakko
+    Zootoca vivipara, skogsödla, sisilisko
+    Anguis fragilis, ormslå, kopparödla, vaskitsa
+    Natrix natrix, snok, rantakäärme
+    Vipera berus, huggorm, kyy
